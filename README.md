@@ -1,4 +1,4 @@
-# vidly
+# video-call
 
 A new Flutter project.
 
